@@ -5,8 +5,8 @@
       "list": [
         {
           "name": "",
-          "pathName": "pages/cate/cate",
-          "query": "",
+          "pathName": "subpkg/goods_list/goods_list",
+          "query": "cid=6",
           "launchMode": "default",
           "scene": null
         }
